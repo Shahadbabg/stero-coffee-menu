@@ -103,6 +103,8 @@ body{
     border-radius: 40px 40px 0 0;
     padding: 30px 20px;
     z-index: 2;
+        width: 100%;
+    box-sizing: border-box;
 }
 .filter-buttons{
     position: sticky;

@@ -160,9 +160,7 @@ body{
     object-fit: cover;
     border-radius: 12px;
 }
-.content{
-    overflow: hidden;
-}
+
 .coffee-info{
     flex: 1;
     display: flex;

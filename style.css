@@ -35,7 +35,7 @@ body{
 }
 
 .menu-section{
-    scroll-margin-top: 50px;
+    scroll-margin-top: 70px;
 }
 
 .mobile-layout{
@@ -111,8 +111,8 @@ body{
 .filter-buttons{
     position: sticky;
     top: 0;
-    z-index: 100;
-    background:antiquewhite;
+    z-index: 1000;
+    background-color: antiquewhite;
     padding: 12px 0;
     display: flex;
     gap: 15px;
